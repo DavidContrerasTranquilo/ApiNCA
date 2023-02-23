@@ -2,9 +2,21 @@
   "contactos": [
     {
       "id": 1,
-      "nombre": "Marcos"
-      "mail": "Marcos@gmail.com"
+      "nombre": "Marcos",
+      "mail": "Marcos@gmail.com",
+      "phone": "123456789"
+    },
+    {
+      "id": 2,
+      "nombre":"David",
+      "mail":"David@gmail.com",
+      "phone": "121212123"
+    },
+    {
+      "id":3,
+      "nombre":"Carlos",
+      "mail":"Caelos@gmail.com",
+      "phone":"987654321"
     }
-  ],
-  
+  ]
 }
